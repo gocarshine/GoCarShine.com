@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GoCarShine</string>
+    <string name="title_activity_main">GoCarShine</string>
+    <string name="package_name">com.gocarshine.app</string>
+    <string name="custom_url_scheme">com.gocarshine.app</string>
+</resources>
